@@ -50,7 +50,7 @@ Brannmur:
 * Oppsett global protect vpn
 * Aktivering av url block filer frå palo alto
 
-Prblem:
+### Prblem:
 
 * PC som ikkje ville starta
 * Uønska oppførsel i Autopilot
@@ -65,7 +65,7 @@ Prblem:
 * Automatisere Android update
 * Konfigurasjon av netbox server 
 
-###Prblem:
+### Prblem:
 
 * Uønska oppførsel i Autopilot
 * Feil ved godkjenning av brannmur sefikat ved bruk av SSL proxy
