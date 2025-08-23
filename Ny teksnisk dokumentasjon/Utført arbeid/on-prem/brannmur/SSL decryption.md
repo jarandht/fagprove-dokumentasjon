@@ -1,5 +1,14 @@
-## SSL Decryptin via SSL Proxy
+# SSL Decryptin via SSL Proxy
+&nbsp;
+## Kvifor
 
+- **Innsyn i kryptert trafikk:** SSL Decryption gjer det mogleg å inspisere kryptert HTTPS-trafikk som ellers ville vore skjult for sikkerheitsløsningar, som antivirus, IDS/IPS, og brannmurar.
+
+- **Forhindre truslar:** Mange angrep og ondsinna filer skjuler seg bak kryptering. Uten decryption kan slike truslar passere usett.
+
+- **Overhalding av policy:** Organisasjonen kan sikre at brukarar ikkje får tilgang til uønska eller farlege nettsider, sjølv om trafikken er kryptert.
+
+## Korleis
 Device > Certificate management > Certificates > Generate
 
 * Certificate Type: Local
@@ -44,3 +53,6 @@ Options:
 * Action: Decrypt
 * Type: SSL Forward Proxy
 * Decryption Profile: Tidlegare oppretta
+
+## Resursar
+https://docs.paloaltonetworks.com/network-security/decryption/administration/decryption-overview/ssl-forward-proxy
