@@ -21,8 +21,6 @@ LAPS (Local Administrator Password Solution) sørgjer for at passordet til den l
 * Post Authentication Actions: Reset the password, logoff the managed account, and terminate any remaining processes: upon expiration of the grace period, the managed account password is reset, any interactive logon sessions using the managed account are logged off, and any remaining processes are terminated.
 * Post authentication reset dalay: 24
 * Automatic Account Management Enabled: The target account will not be automatically managed (Default)
-
-
 * Assignment
     * Included Groups: All Devices
 ## Resusrsar

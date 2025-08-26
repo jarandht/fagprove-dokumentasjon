@@ -70,7 +70,7 @@ Brannmur:
 * Uønska oppførsel i Autopilot
 * Feil ved godkjenning av brannmur sefikat ved bruk av SSL proxy
 &nbsp;
-# Fredag 13/06/2025:
+# Mandag 16/06/2025:
 
 ### Gjennomført:
 

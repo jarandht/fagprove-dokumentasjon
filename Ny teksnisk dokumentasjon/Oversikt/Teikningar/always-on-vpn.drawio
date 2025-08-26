@@ -1,0 +1,79 @@
+<mxfile host="drawio.jarand.site" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.9">
+  <diagram name="Page-1" id="SwA6JLm1kQx5A4j11s4r">
+    <mxGraphModel dx="1693" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vAzkbgAcOfX5--shHwe3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAzkbgAcOfX5--shHwe3-2" target="vAzkbgAcOfX5--shHwe3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-3" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Klient&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAzkbgAcOfX5--shHwe3-7" target="vAzkbgAcOfX5--shHwe3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="550.63" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-8" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;VPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580.63" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.37" y="310" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-16" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Interne tjenester&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="459.37" y="335" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-18" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489.3699999999999" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="20" width="79.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;" vertex="1" parent="1">
+          <mxGeometry x="574.13" y="165" width="63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAzkbgAcOfX5--shHwe3-27" target="vAzkbgAcOfX5--shHwe3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAzkbgAcOfX5--shHwe3-27" target="vAzkbgAcOfX5--shHwe3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-28" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Brannmur&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="715" y="170" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-43" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Always On VPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-80" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAzkbgAcOfX5--shHwe3-45" target="vAzkbgAcOfX5--shHwe3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-46" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Brannmur&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vAzkbgAcOfX5--shHwe3-47" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="415" y="170" width="80" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
