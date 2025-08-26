@@ -15,3 +15,10 @@
 - **Compliance og logging:** Filtreringa bidreg til overhald av lover og retningslinjer, og gir detaljerte loggar for revisjon og etterforsking.
 
 ## Korleis?
+
+Object > Security profiles > URL Filtering > Add
+
+- Name: palo-alto
+- Catoegories
+
+    - Site access (på dei ein vil bloke): Block

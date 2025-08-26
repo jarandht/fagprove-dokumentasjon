@@ -1,5 +1,3 @@
-## 
-
 ## Key store
 
 Legg inn SSH nyklar for ansible brukar til serverar og administrator brukar på serverar samt gitlab access token

@@ -6,3 +6,6 @@ https://github.com/jarandht/docker-containers/tree/main/Automation%2C%20Infra%20
 
 # Netbox 
 https://github.com/jarandht/docker-containers/tree/main/Automation%2C%20Infra%20and%20networking/netbox
+
+# Technitium
+https://github.com/jarandht/docker-containers/tree/main/Automation%2C%20Infra%20and%20networking/technitium/dhcp
