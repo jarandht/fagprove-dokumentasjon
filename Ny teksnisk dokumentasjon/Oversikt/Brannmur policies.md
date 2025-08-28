@@ -6,11 +6,10 @@
 | Any | Any | Palo IP lister | Block | Palo lager lister med IPer som kan være skadlige |
 
 ## Inside til utside
-| Fra | Applikasjon/Service/Port | Til | Aksjon | Kvifor |
-|-----|---|---|---|---|
-| Alle soner som skal ha nett | Any | Internett | Allow | Gi dei som treng internetttilgong | sudp
-| Alle soner som skal ha nett | Any | Internett | Allow | Gi dei som treng internetttilgong | 
-| Alle stengt ned hostar | DNS, prot 53 | Valgte DNS serverar | Allow | Dei som har låst ned internatt trafikk får DNS | 
+| Fra | Applikasjon/Service/Port | Til | Aksjon | Tilleg | Kvifor |
+|-----|---|---|---|---|---|
+| Alle soner som skal ha nett | Any | Internett | Allow |  | Gi dei som treng internetttilgong | sudp
+| Alle stengt ned hostar | DNS, prot 53 | Valgte DNS serverar | Allow || Dei som har låst ned internatt trafikk får DNS | 
 
 ## Server til server
 | Fra | Applikasjon/Service/Port | Til | Aksjon | Kvifor |
